@@ -9,12 +9,7 @@ import { getStorage } from "firebase/storage"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDS5XOm97xFGMpHarnkfv824ogxExkeSp8",
-  authDomain: "proman-app-3c411.firebaseapp.com",
-  projectId: "proman-app-3c411",
-  storageBucket: "proman-app-3c411.appspot.com",
-  messagingSenderId: "396883531248",
-  appId: "1:396883531248:web:ae099564f1ed1855f33935"
+  //the key & config from firebase
 };
 
 // Initialize Firebase
